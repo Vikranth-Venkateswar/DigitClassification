@@ -11,7 +11,7 @@ It also demonstrates good software engineering practices like code modularizatio
 ```
 DigitClassification/
 ├── main.py       # Main script with only function calls
-├── utils.py      # Contains all data processing and model functions
+├── plot_digits_classification.py      # Contains all data processing and model functions
 └── README.md     # This file
 ```
 
@@ -47,13 +47,6 @@ python main.py
 
 ---
 
-### Sample Output
-
-```
-Accuracy: 0.97xxxx
-```
-
----
 
 ### Notes
 
